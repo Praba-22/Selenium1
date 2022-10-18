@@ -1,2 +1,0 @@
-# Selenium1
-Test
